@@ -12,5 +12,5 @@ package go_modules_say_hello
 
 // v2.0.0
 func SayHello(name string) string {
-	return "Hello " + name
+	return "Hello " + name + ":)"
 }
