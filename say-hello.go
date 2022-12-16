@@ -1,4 +1,4 @@
-package gomodulessayhello
+package go_modules_say_hello
 
 // v0.0.1
 // func SayHello() string {
